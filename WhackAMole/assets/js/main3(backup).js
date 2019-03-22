@@ -26,7 +26,7 @@ var app = new Application({
 var arrPosition = [
   {
     id: 1,
-    x: 1,
+    x: 11,
     y: 94,
     hammerx: 60,
     hammery: 10
